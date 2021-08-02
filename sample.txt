@@ -1,0 +1,4 @@
+Full Name: Akash Patel
+Designation: Student
+Skill: Cloud Computing, Data Science, Python, Java, Android, Flutter
+Interest: Singing, Volleyball, Cricket, Travelling
