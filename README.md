@@ -3,6 +3,6 @@ This repository help you to complete the second assessment of Basic GitHub. Foll
 ## Steps:
 * Fork this Repo 
 * Make required changes in **sample.txt** file
-* Provide the link in given [Assessment] https://brighterbees.org/skill-badges/Github/Basic/Assignment/
+* Provide the link in given [Assessment] [https://brighterbees.org/skill-badges/Github/Basic/Assignment/]
 
-## For more query you can join [discord] https://linktr.ee/BrighterBeesOfficial
+## For more query you can join [discord] [https://linktr.ee/BrighterBeesOfficial]
