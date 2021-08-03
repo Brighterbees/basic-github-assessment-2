@@ -1,5 +1,5 @@
-# basic-github-assessment-2
+# Basic Github Assessment 2
 ## Steps:
-Fork 
-Make required changes
-Provide the link
+* Fork 
+* Make required changes
+* Provide the link
